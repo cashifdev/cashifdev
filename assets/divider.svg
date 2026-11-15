@@ -1,0 +1,2 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="12" viewBox="0 0 1000 12"><style>.l{stroke-dasharray:160 840;animation:m 3s linear infinite}@keyframes m{to{stroke-dashoffset:-1000}}</style>
+<line x1="0" y1="6" x2="1000" y2="6" stroke="#00ff9c" stroke-opacity=".2" stroke-width="2"/><line class="l" x1="0" y1="6" x2="1000" y2="6" stroke="#00ff9c" stroke-width="2.5" style="filter:drop-shadow(0 0 4px #00ff9c)"/></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="64" viewBox="0 0 520 64">
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+.b{stroke-dasharray:140 1000;animation:r 3s linear infinite}@keyframes r{to{stroke-dashoffset:-1140}}
+.c{animation:k 1s steps(1) infinite}@keyframes k{50%{opacity:0}}
+.p{animation:p 1.6s ease-in-out infinite}@keyframes p{50%{fill-opacity:.12}}</style>
+<rect class="p" x="2" y="2" width="516" height="60" rx="30" fill="#00ff9c" fill-opacity=".05" stroke="#00ff9c" stroke-opacity=".35"/>
+<rect class="b" x="2" y="2" width="516" height="60" rx="30" fill="none" stroke="#00ff9c" stroke-width="2.5" style="filter:drop-shadow(0 0 5px #00ff9c)"/>
+<text x="260" y="40" text-anchor="middle" fill="#eafff5" style="font-size:20px;font-weight:700;letter-spacing:2px"><tspan fill="#00ff9c">&gt;_</tspan> LAUNCH INTERACTIVE TERMINAL<tspan class="c" fill="#00ff9c">█</tspan></text>
+</svg>
