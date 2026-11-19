@@ -35,9 +35,9 @@
 
 <!-- PROJECTS:START -->
 <p align="center">
+  <a href="https://github.com/cashifdev/fudi-privacy"><img src="assets/cards/fudi-privacy.svg" width="49%" alt="fudi-privacy"></a>
   <a href="https://github.com/cashifdev/ai-browser-assistant"><img src="assets/cards/ai-browser-assistant.svg" width="49%" alt="ai-browser-assistant"></a>
   <a href="https://github.com/cashifdev/GoMode"><img src="assets/cards/GoMode.svg" width="49%" alt="GoMode"></a>
-  <a href="https://github.com/cashifdev/superclaw"><img src="assets/cards/superclaw.svg" width="49%" alt="superclaw"></a>
   <a href="https://github.com/cashifdev/codychat-gpt-bot"><img src="assets/cards/codychat-gpt-bot.svg" width="49%" alt="codychat-gpt-bot"></a>
   <a href="https://github.com/cashifdev/codychat-translate"><img src="assets/cards/codychat-translate.svg" width="49%" alt="codychat-translate"></a>
   <a href="https://github.com/cashifdev/codychat-edit-message"><img src="assets/cards/codychat-edit-message.svg" width="49%" alt="codychat-edit-message"></a>
