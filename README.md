@@ -36,11 +36,11 @@
 <!-- PROJECTS:START -->
 <p align="center">
   <a href="https://github.com/cashifdev/fudi-privacy"><img src="assets/cards/fudi-privacy.svg" width="49%" alt="fudi-privacy"></a>
-  <a href="https://github.com/cashifdev/ai-browser-assistant"><img src="assets/cards/ai-browser-assistant.svg" width="49%" alt="ai-browser-assistant"></a>
+  <a href="https://github.com/cashifdev/codychat-pranks"><img src="assets/cards/codychat-pranks.svg" width="49%" alt="codychat-pranks"></a>
+  <a href="https://github.com/cashifdev/codychat-smart-alerts"><img src="assets/cards/codychat-smart-alerts.svg" width="49%" alt="codychat-smart-alerts"></a>
   <a href="https://github.com/cashifdev/codychat-reactions"><img src="assets/cards/codychat-reactions.svg" width="49%" alt="codychat-reactions"></a>
   <a href="https://github.com/cashifdev/codychat-gpt-bot"><img src="assets/cards/codychat-gpt-bot.svg" width="49%" alt="codychat-gpt-bot"></a>
   <a href="https://github.com/cashifdev/codychat-translate"><img src="assets/cards/codychat-translate.svg" width="49%" alt="codychat-translate"></a>
-  <a href="https://github.com/cashifdev/codychat-edit-message"><img src="assets/cards/codychat-edit-message.svg" width="49%" alt="codychat-edit-message"></a>
 </p>
 <!-- PROJECTS:END -->
 
