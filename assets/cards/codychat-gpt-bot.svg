@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150">
 <style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace} .b{stroke-dasharray:120 1000;animation:run 4s linear infinite} @keyframes run{to{stroke-dashoffset:-1120}}
 .p{animation:p 2s ease-in-out infinite} @keyframes p{50%{opacity:.3}}</style>
-<rect x="2" y="2" width="416" height="146" rx="12" fill="#0b0f14" stroke="#00e5ff" stroke-opacity=".25"/>
-<rect class="b" x="2" y="2" width="416" height="146" rx="12" fill="none" stroke="#00e5ff" stroke-width="2.5" style="filter:drop-shadow(0 0 4px #00e5ff)"/>
-<text x="24" y="40" fill="#00e5ff" style="font-size:12px;letter-spacing:3px"><tspan class="p">■</tspan> PHP  ·  ★ 0</text>
+<rect x="2" y="2" width="416" height="146" rx="12" fill="#0b0f14" stroke="#ff2bd6" stroke-opacity=".25"/>
+<rect class="b" x="2" y="2" width="416" height="146" rx="12" fill="none" stroke="#ff2bd6" stroke-width="2.5" style="filter:drop-shadow(0 0 4px #ff2bd6)"/>
+<text x="24" y="40" fill="#ff2bd6" style="font-size:12px;letter-spacing:3px"><tspan class="p">■</tspan> PHP  ·  ★ 0</text>
 <text x="24" y="76" fill="#eafff5" style="font-size:22px;font-weight:700">codychat-gpt-bot</text>
 <text x="24" y="106" fill="#8b949e" style="font-size:13.5px">AI chat assistant add-on for Codychat 10.1:</text><text x="24" y="126" fill="#8b949e" style="font-size:13.5px">answers in rooms and private chat in the...</text>
 </svg>
