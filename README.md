@@ -36,11 +36,11 @@
 <!-- PROJECTS:START -->
 <p align="center">
   <a href="https://github.com/cashifdev/fudi-privacy"><img src="assets/cards/fudi-privacy.svg" width="49%" alt="fudi-privacy"></a>
+  <a href="https://github.com/cashifdev/codychat-backdrops"><img src="assets/cards/codychat-backdrops.svg" width="49%" alt="codychat-backdrops"></a>
   <a href="https://github.com/cashifdev/codychat-shakeups"><img src="assets/cards/codychat-shakeups.svg" width="49%" alt="codychat-shakeups"></a>
   <a href="https://github.com/cashifdev/codychat-pranks"><img src="assets/cards/codychat-pranks.svg" width="49%" alt="codychat-pranks"></a>
   <a href="https://github.com/cashifdev/codychat-smart-alerts"><img src="assets/cards/codychat-smart-alerts.svg" width="49%" alt="codychat-smart-alerts"></a>
   <a href="https://github.com/cashifdev/codychat-reactions"><img src="assets/cards/codychat-reactions.svg" width="49%" alt="codychat-reactions"></a>
-  <a href="https://github.com/cashifdev/codychat-gpt-bot"><img src="assets/cards/codychat-gpt-bot.svg" width="49%" alt="codychat-gpt-bot"></a>
 </p>
 <!-- PROJECTS:END -->
 
